@@ -1,0 +1,13 @@
+.deleteBtn {
+  background-color: #dc3545;
+  color: whitesmoke;
+}
+.deleteBtn :hover {
+  filter: blur(4px);
+}
+
+.addBtn {
+  background-color: #0d6efd;
+  
+  color: whitesmoke; 
+}
